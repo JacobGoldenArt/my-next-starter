@@ -1,0 +1,4 @@
+npm.lock
+node_modules
+.next
+.env
